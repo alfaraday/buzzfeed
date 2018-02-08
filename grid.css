@@ -1,3 +1,36 @@
+html {
+  box-sizing: inherit;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+}
+
+.logo {
+  color: #e32;
+    font-size: 45px;
+    letter-spacing: 0;
+    font-weight: 600;
+    line-height: 1.5;
+    margin-top: 10px;
+}
+
+h1 {
+  color: #222;
+  font-size: 30px;
+  margin: 0;
+  padding: 0;
+}
+
+ol {
+    margin-left: 10px;
+    padding-left: 0;
+    font-weight: bold;
+}
+
+p {
+  font-weight: 400;
+  font-size: 15px;
+}
+
 * {
   box-sizing: border-box;
 }
