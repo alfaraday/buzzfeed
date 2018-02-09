@@ -34,7 +34,7 @@
     display: inline-block;
     width: 22%;
     float: right;
-    position: fixed;
+    position: absolute;
   }
 
   .sidebar-img {
